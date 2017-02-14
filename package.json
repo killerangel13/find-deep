@@ -1,0 +1,28 @@
+{
+  "name": "find-deep",
+  "author": "killerangel13",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Array.find for nested objects",
+  "bugs": {
+    "url": "https://github.com/killerangel13/find-deep/issues"
+  },
+  "homepage": "https://github.com/killerangel13/find-deep",
+  "keywords": [
+    "argument",
+    "function",
+    "name",
+    "parameter",
+    "parse",
+    "es6"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/killerangel13/find-deep.git"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "main": "dist/find-deep.min.js",
+  "dependencies": {},
+  "readmeFilename": "README.md"
+}

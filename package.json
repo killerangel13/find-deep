@@ -9,12 +9,12 @@
   },
   "homepage": "https://github.com/killerangel13/find-deep",
   "keywords": [
-    "argument",
-    "function",
-    "name",
-    "parameter",
-    "parse",
-    "es6"
+    "find",
+    "deep",
+    "nested",
+    "objects",
+    "search",
+    "get"
   ],
   "repository": {
     "type": "git",
